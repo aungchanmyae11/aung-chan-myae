@@ -1,4 +1,3 @@
-# aung-chan-myae/ readme.md
 <!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:0D1117,45:0B5D7A,100:238636&section=header&text=Aung%20Chan%20Myae&fontSize=42&fontColor=FFFFFF&desc=Cybersecurity%20Associate%20Analyst%20%7C%20Associate%20SOC%20Analyst&descSize=16&descAlignY=64&animation=fadeIn" alt="Aung Chan Myae" width="100%" />
